@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # The Business Action Plan:
-
-# 1. Preprocess the data
-#     - In a data science team there may be a person whose sole job is to preprocess datasets
-#     - Common Techniques:
-#          1. Balance the dataset
-#          2. Divide the dataset in training, validation, and test (to prevent overfitting
-#          3. Save the data in a tensor friendly format (good old .npz)
-# 2. Create the machine learning algorithm
-#    - use the same structure as MNIST to create a different model 
-
 # # Practical Example: Audiobooks
 
 # ### Preprocess the data. Balance the dataset. Create 3 datasets: training, validation, and test. Save the newly created sets in a tensor friendly format (e.g. *.npz)
